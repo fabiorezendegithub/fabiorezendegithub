@@ -1,7 +1,8 @@
 - 👋 Olá, Eu sou Fabio Rezende
 - 👀 Eu me interesso por C#.Net e SQL
-- 🌱 Atualmente estou aprendendo a gerar JWT Bearer utilizando o C#
-- 💞️ Procuro colaborar com projetos C# e Blazor
+<!--
+[- 🌱 Atualmente estou aprendendo a gerar JWT Bearer utilizando o C#
+- 💞️ Procuro colaborar com projetos C# e Blazor](url)
 
 <!---
 fabiorezendegithub/fabiorezendegithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
